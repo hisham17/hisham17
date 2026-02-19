@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hisham17
 - 👀I'm interested in web development.
-- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on HTML, CSS and JAVASCRIPT.
 - 📫 my email: hisham.abd.m@gmila.com
 
